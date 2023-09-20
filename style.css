@@ -1,0 +1,16 @@
+.navbar{
+    background-color: blanchedalmond;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    color: brown;
+}
+
+.form-control{
+    margin: 8px;
+}
+
+.display-4{
+    color: brown;
+}
